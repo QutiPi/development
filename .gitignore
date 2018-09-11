@@ -1,7 +1,7 @@
 # Sub modules to be ignored
 # ----------------------------------------------------------------------------
 
-vendor/fluid/
+# vendor/fluid/
 
 
 

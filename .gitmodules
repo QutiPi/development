@@ -1,3 +1,6 @@
 [submodule "vendor/qutipi-cpp"]
 	path = vendor/qutipi-cpp
 	url = https://github.com/QutiPi/qutipi-cpp
+[submodule "vendor/fluid"]
+	path = vendor/fluid
+	url = https://github.com/lirios/fluid
